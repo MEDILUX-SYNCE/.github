@@ -1,5 +1,5 @@
 - 제목 : feat #issue 번호: 기능명
-  ex) feat(17): pull request template 작성
+  ex) feat#17: pull request template 작성
   (확인 후 지워주세요)
 
 ## 📝 PR 유형
